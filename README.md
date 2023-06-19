@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a sophomore student at GIK Institute, studying Computer Science<br>I wish to work on open source contributions <br>I am particularly interested in machine learning and artificial intelligence and therefore, I have a TensorFlow certification from Deeplearning.ai<br>My interest also lies in web development and am working my way up to learn backend technologies<br>I have a strong Analytical mindset
+I am a junior year student at GIK Institute, studying Computer Science<br>I wish to work on open source contributions <br>I am particularly interested in machine learning and artificial intelligence and therefore, I have a TensorFlow certification from Deeplearning.ai<br>My interest also lies in web development and am working my way up to learn backend technologies<br>I have a strong Analytical mindset
 
 
 ## 🌐 Socials:
