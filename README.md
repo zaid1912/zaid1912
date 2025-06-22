@@ -1,5 +1,5 @@
 # Hello and Welcome👋! I am Zaid Muzammil:
-I'm a passionate **Full Stack Developer** with over **2 years of experience** in web development. I specialize in building efficient and scalable applications, focusing on creating seamless user experiences. Here's a bit about me:
+I'm a passionate **Full Stack Developer** with over **3 years of experience** in web development. I specialize in building efficient and scalable applications, focusing on creating seamless user experiences. Here's a bit about me:
 
 - 🌐 **Current Role**: Frontend Developer, primarily working with **Next.js**.
 - 🎓 **Education**: Bachelor's degree in Computer Science from **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology**.
